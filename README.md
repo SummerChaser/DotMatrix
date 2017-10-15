@@ -12,5 +12,5 @@
  
 效果图
 --------------------------------
-<img src="1.png">
-<img src="2.png">
+[image](http://github.com/SummerChaser/DotMatrix/raw/master/1.png)
+[image](http://github.com/SummerChaser/DotMatrix/raw/master/2.png)
